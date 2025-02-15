@@ -7,20 +7,20 @@ class ContactsScreen extends StatelessWidget {
   var arrContacts = [
     {
       "img": "Frame 3293.png",
-      "name": "Athalia Putri",
+      "name": "Hema",
       "lastseen": "Last seen yesterday"
     },
-    {"img": "Avatar.png", "name": "Erlan Sadewa", "lastseen": "Online"},
+    {"img": "Avatar.png", "name": "Raju", "lastseen": "Online"},
     {
       "img": "Avatar (1).png",
-      "name": "Midala Huera",
+      "name": "Rani",
       "lastseen": "Last seen 3 hours ago"
     },
-    {"img": "Avatar (2).png", "name": "Nafisa Gitari", "lastseen": "Online"},
-    {"img": "Frame 3293 (1).png", "name": "Raki Devon", "lastseen": "Online"},
+    {"img": "Avatar (2).png", "name": "Sanika", "lastseen": "Online"},
+    {"img": "Frame 3293 (1).png", "name": "Rutuja", "lastseen": "Online"},
     {
       "img": "Avatar (3).png",
-      "name": "Salsabila Akira",
+      "name": "Ravina",
       "lastseen": "Last seen 30 minutes ago"
     },
   ];
